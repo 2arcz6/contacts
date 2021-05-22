@@ -81,8 +81,8 @@ const AddContact = () => {
             />
           </div>
 
-          <button onClick={saveContact} className="btn btn-success">
-            Submit
+          <button onClick={saveContact} className="btn btn-success add-btn">
+            Add
           </button>
         </div>
       )}

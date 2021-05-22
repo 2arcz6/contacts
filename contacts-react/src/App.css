@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+.add-btn{
+  margin-top: 10px;
+}
+
 .list {
   text-align: left;
   max-width: 750px;
@@ -42,6 +46,20 @@
 .edit-form {
   max-width: 300px;
   margin: auto;
+  background-color: yellow;
+  color: #000;
+  text-decoration: none;
+}
+.badge-primary{
+  background-color: cornflowerblue;
+}
+
+.badge-danger{
+  background-color: #ff0000;
+}
+
+.badge-success{
+  background-color: #4BB543;
 }
 
 @keyframes App-logo-spin {
