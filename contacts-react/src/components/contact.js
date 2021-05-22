@@ -109,7 +109,7 @@ const Contact = (props) => {
             <div className="form-group">
               <label>
                 <strong>Status: </strong>
-              </label>
+              </label>{" "}
               {currentContact.favorite ? "fave" : "n/a"}
             </div>
           </form>
