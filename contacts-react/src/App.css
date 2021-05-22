@@ -32,6 +32,12 @@
   margin-top: 10px;
 }
 
+.edit-btn{
+  background-color: yellow;
+  color: #000;
+  text-decoration: none;
+}
+
 .list {
   text-align: left;
   max-width: 750px;
@@ -46,10 +52,12 @@
 .edit-form {
   max-width: 300px;
   margin: auto;
-  background-color: yellow;
-  color: #000;
-  text-decoration: none;
 }
+
+.badge{
+  margin: 0 5px;
+}
+
 .badge-primary{
   background-color: cornflowerblue;
 }
